@@ -15,7 +15,7 @@
 * `Node.js`：利用 Express 搭建的本地测试服务器
 * `vue-axios`：用来请求后端 API 音乐数据
 
-#####其他工具
+####其他工具
 
 * `fastclick` ：消除 click 移动游览器 300ms 的延迟
 * `good--storage` ：处理本地缓存的方法集合
