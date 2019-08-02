@@ -1,6 +1,6 @@
-﻿# Vue 网易云音乐 WebApp
+﻿# :musical_keyboard:Vue 网易云音乐 WebApp
 
-:musical_keyboard: 基于 Vue(2.9.6) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发一款移动端音乐，数据接口都是抓取到的qq音乐官方的接口，通过 jsonp 跨域和服务器端修改请求头中的 Referer 和 host 来请求数据，flex 布局适配常见移动端。
+基于 Vue(2.9.6) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发一款移动端音乐，数据接口都是抓取到的qq音乐官方的接口，通过 jsonp 跨域和服务器端修改请求头中的 Referer 和 host 来请求数据，flex 布局适配常见移动端。
 
 
 ## :rainbow:技术栈
@@ -20,7 +20,7 @@
 * `good--storage` ：处理本地缓存的方法集合
 * `vue-lazyload`：实现图片懒加载，节省用户流量，优化页面加载速度
 * `better-scroll`：解决移动端各种滚动场景需求的插件，使移动端滑动体验更加流畅
-## 实现功能
+## :video_camera:实现功能
 
 播放器内核、推荐页面、热榜页面、歌手页面、歌单详情、歌手详情、排行榜详情、搜索页面、播放列表、用户中心等等功能。
 
@@ -86,7 +86,7 @@
 通过把用户操作的记录存储到本地存储中，实现了喜欢的歌曲和历史歌曲，
 
 
-## 最后
+## :city_sunrise:最后
 
 通过学习开发一个 Vue 全家桶项目，让自己更熟练的使用 Vue 全家桶、模块化开发、ES6 等等知识，提高自己的技术能力。
 
