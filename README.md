@@ -1,9 +1,9 @@
-﻿# :musical_keyboard:Vue 网易云音乐 WebApp
+﻿# :musical_keyboard: Vue 网易云音乐 WebApp
 
 基于 Vue(2.9.6) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发一款移动端音乐，数据接口都是抓取到的qq音乐官方的接口，通过 jsonp 跨域和服务器端修改请求头中的 Referer 和 host 来请求数据，flex 布局适配常见移动端。
 
 
-## :rainbow:技术栈
+## :rainbow: 技术栈
 
 * `Vue`：用于构建用户界面的 MVVM 框架
 * `vue-cli`：Vue 脚手架工具，快速初始化项目代码
@@ -86,7 +86,7 @@
 通过把用户操作的记录存储到本地存储中，实现了喜欢的歌曲和历史歌曲，
 
 
-## :city_sunrise:最后
+## :city_sunrise: 最后
 
 通过学习开发一个 Vue 全家桶项目，让自己更熟练的使用 Vue 全家桶、模块化开发、ES6 等等知识，提高自己的技术能力。
 
