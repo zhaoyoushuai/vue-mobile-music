@@ -2,7 +2,7 @@
 
 :musical_keyboard: 基于 Vue(2.9.6) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发一款移动端音乐，数据接口都是抓取到的qq音乐官方的接口，通过 jsonp 跨域和服务器端修改请求头中的 Referer 和 host 来请求数据，flex 布局适配常见移动端。
 
-
+:date
 
 ## 技术栈
 
