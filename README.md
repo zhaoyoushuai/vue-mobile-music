@@ -53,7 +53,6 @@
 
 #### 歌单详情页、排行榜详情页、歌手详情页
 
-![](./README-IMG/detail/1.png)
 ![](./README-IMG/detail/2.png)
 ![](./README-IMG/detail/3.png)
 
