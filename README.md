@@ -26,7 +26,7 @@
 
 
 #### 推荐页面
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![recommend](./README.IMG/recommend/1.png)
 
 推荐页分成两个部分，分别是 banner 轮播图、推荐歌单，数据都是使用 `jsonp` 请求 API 获取得到的，图片都使用 `vue-lazyload` 实现懒加载。
 
