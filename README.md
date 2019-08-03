@@ -53,7 +53,9 @@
 
 #### 歌单详情页、排行榜详情页、歌手详情页
 
-![](./README-IMG/recommend/1.png)
+![](./README-IMG/detail/1.png)
+![](./README-IMG/detail/2.png)
+![](./README-IMG/detail/3.png)
 
 都是复用歌曲列表组件来显示歌曲，页面结构基本相同，
 
@@ -94,6 +96,8 @@
 
 ![](./README-IMG/personal/1.png)
 ![](./README-IMG/personal/2.png)
+
+
 通过把用户操作的记录存储到本地存储中，实现了喜欢的歌曲和历史歌曲，
 
 
