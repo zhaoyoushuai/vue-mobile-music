@@ -1,6 +1,6 @@
 ﻿# :musical_keyboard: Vue qq音乐 WebApp
 
-基于 Vue(2.9.6) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发一款移动端音乐，flex 布局适配常见移动端，数据接口都是抓取到的qq音乐官方的接口，通过 jsonp 跨域和服务器端修改请求头中的 Referer 和 host 来请求数据。有些接口会被封掉烦的一批，后续打算自己做一个网易云版本的。
+基于 Vue(2.9.6) + vuex + vue-router + vue-axios + better-scroll + stylus + ES6 等开发一款移动端音乐，flex 布局适配常见移动端，数据接口都是抓取到的qq音乐官方的接口，通过 jsonp 跨域和服务器端修改请求头中的 Referer 和 host 来请求数据。播放音乐的接口封的有点勤，还得每次去捕捉key值和guid值很麻烦，后续打算做一个网易云版本的。
 
 
 ## :rainbow: 技术栈
